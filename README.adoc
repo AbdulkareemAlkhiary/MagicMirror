@@ -5,7 +5,7 @@
 :License: Public Domain
 
 
-= MagicMirror
+= Magic Mirror
 
 MagicMirror allows you to convert your hallway or bathroom mirror into your personal assistant.
 
