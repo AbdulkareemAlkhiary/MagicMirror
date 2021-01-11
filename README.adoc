@@ -11,7 +11,7 @@ MagicMirror allows you to convert your hallway or bathroom mirror into your pers
 
 == Step 1: Design Implementation
 
-BOM: 
+BOM:::
  * RaspberryPi
  * SIM Card
 
