@@ -17,4 +17,4 @@ BOM:::
 
 == Step 2: Load the code
 
-Upload the code contained in this file on to your board
+Upload the code contained in this folder on to your board
